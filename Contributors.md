@@ -41,6 +41,7 @@
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
 - [Colin McKerracher](https://github.com/colmck)
 - [Omoogun Olawale](https://github.com/olawale-o)
+- [Craigehton](https://github.com/craigehton)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Leon Heinrich](https://github.com/LionLostInCode)
 - [Matthew West](https://github.com/MattWestGH)
